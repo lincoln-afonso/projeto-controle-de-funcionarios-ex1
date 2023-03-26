@@ -1,5 +1,5 @@
 # projeto-controle-de-funcionarios-ex1
-2) Faça um programa que possua o menu:
+Faça um programa que possua o menu:
 1 – Cadastro
 2 – Consulta
 3 – Excluir
@@ -12,4 +12,5 @@ b) Aceitar apenas valores positivos para o campo salário
 2 – Pedir ao usuário uma valor e mostrar os dados do funcionário que possua matrícula igual ao valor
 fornecido.
 3 – Pedir ao usuário uma valor e excluir o funcionário que possua matrícula igual ao valor fornecido.
-4 – Listar os dados de todos os funcionários
+4 – Listar os dados de todos os funcionários (ordem alfabética)
+5 - Encerrar o programa
